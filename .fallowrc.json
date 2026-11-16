@@ -1,0 +1,6 @@
+{
+  "ignoreExports": [
+    { "file": "components/ui/**", "exports": ["*"] },
+    { "file": "components/ai-elements/**", "exports": ["*"] }
+  ]
+}
